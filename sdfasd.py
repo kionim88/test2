@@ -1,1 +1,4 @@
 print("hello")
+x = 12
+y = 2
+print(x+y)
